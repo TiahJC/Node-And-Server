@@ -5,7 +5,7 @@ function getConnection(err) {
     connectionLimit: 20,
     host: "localhost",
     user: "root",
-    password: "Lightfox@12",
+    password: "Pass1234!",
     database: "nodejs1",
   })
   if (err) {
